@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Telemedicina.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/Telemedicina.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Telemedicina.Library.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Telemedicina.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/Telemedicina.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Telemedicina.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telemedicina.Library/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Telemedicina.Library.csproj",
+      "msbuildProject": "../Shared/Telemedicina.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Telemedicina.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\protw\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\protw\\OneDrive\\Dokumente\\GitHub\\Projekat_Ugljesa_Milos\\Server\\Telemedicina.Server.csproj",
+      "projectName": "Telemedicina.Server",
+      "projectPath": "C:\\Users\\protw\\OneDrive\\Dokumente\\GitHub\\Projekat_Ugljesa_Milos\\Server\\Telemedicina.Server.csproj",
+      "packagesPath": "C:\\Users\\protw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\protw\\OneDrive\\Dokumente\\GitHub\\Projekat_Ugljesa_Milos\\Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\protw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "C:\\Users\\protw\\OneDrive\\Dokumente\\GitHub\\Projekat_Ugljesa_Milos\\Shared\\Telemedicina.Library.csproj": {
+              "projectPath": "C:\\Users\\protw\\OneDrive\\Dokumente\\GitHub\\Projekat_Ugljesa_Milos\\Shared\\Telemedicina.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

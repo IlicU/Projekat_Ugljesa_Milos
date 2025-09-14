@@ -1,0 +1,19 @@
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\bin\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\bin\Debug\net472\Telemedicina.Library.pdb
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.csproj.AssemblyReference.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.AssemblyInfoInputs.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.AssemblyInfo.cs
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.csproj.CoreCompileInputs.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Shared\obj\Debug\net472\Telemedicina.Library.pdb
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\bin\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\bin\Debug\net472\Telemedicina.Library.pdb
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.csproj.AssemblyReference.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.AssemblyInfoInputs.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.AssemblyInfo.cs
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.csproj.CoreCompileInputs.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.sourcelink.json
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Shared\obj\Debug\net472\Telemedicina.Library.pdb

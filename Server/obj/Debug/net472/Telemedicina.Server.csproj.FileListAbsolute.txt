@@ -1,0 +1,43 @@
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.pdb
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\bin\Debug\net472\Telemedicina.Shared.dll
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\bin\Debug\net472\Telemedicina.Shared.pdb
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.csproj.AssemblyReference.cache
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfoInputs.cache
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfo.cs
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.csproj.CoreCompileInputs.cache
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedi.90462210.Up2Date
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.pdb
+C:\Users\protw\OneDrive\Radna površina\ProjekatMreze\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\bin\Debug\net472\Telemedicina.Server.pdb
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.csproj.AssemblyReference.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfoInputs.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfo.cs
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.csproj.CoreCompileInputs.cache
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedi.90462210.Up2Date
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\obj\Debug\net472\Telemedicina.Server.pdb
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\bin\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Radna površina\Telemedicina\Server\bin\Debug\net472\Telemedicina.Library.pdb
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\bin\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\bin\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\bin\Debug\net472\Telemedicina.Server.pdb
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\bin\Debug\net472\Telemedicina.Library.dll
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\bin\Debug\net472\Telemedicina.Library.pdb
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.csproj.AssemblyReference.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.exe.config
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfoInputs.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.AssemblyInfo.cs
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.csproj.CoreCompileInputs.cache
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.sourcelink.json
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedi.90462210.Up2Date
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.exe
+C:\Users\protw\OneDrive\Dokumente\GitHub\Projekat_Ugljesa_Milos\Server\obj\Debug\net472\Telemedicina.Server.pdb
